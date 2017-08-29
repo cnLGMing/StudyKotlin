@@ -1,4 +1,4 @@
-package com.cnlgming.kotlin.unittest
+package com.cnlgming.kotlin.unittest05
 
 /**
  * Created by Liu Guangming on 2017-08-29.
